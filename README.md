@@ -6,9 +6,9 @@ Namelists, postprocessing and analysis scripts for "Seasonably variable estuarin
 
 Namelists in directory Namelists see subdirectory names below.
 
-From Victoria Sill to Haro, Rosario, SJC (also to Admiralty and Deception)
-   Name in Table 1: Split1F
-   Directory: forVS_split
+From Victoria Sill to Haro, Rosario, SJC (also to Admiralty and Deception) 
+   - Name in Table 1: Split1F \n
+   - Directory: forVS_split
 
 To Victoria Sill from Haro, Rosario, SJC (also from Admiralty and Deception)
    Name in Table 1: Split1B
