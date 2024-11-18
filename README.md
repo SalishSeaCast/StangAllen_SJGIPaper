@@ -2,6 +2,8 @@
 
 Namelists, postprocessing and analysis scripts for "Seasonably variable estuarine exchange through inter-connected channels in the Salish Sea" 
 
+[![DOI](https://zenodo.org/badge/889264419.svg)](https://doi.org/10.5281/zenodo.14182582)
+
 ### Ariane Runs ###
 
 Namelists in directory Namelists see subdirectory names below.
