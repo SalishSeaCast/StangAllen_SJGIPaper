@@ -7,54 +7,55 @@ Namelists, postprocessing and analysis scripts for "Seasonably variable estuarin
 Namelists in directory Namelists see subdirectory names below.
 
 From Victoria Sill to Haro, Rosario, SJC (also to Admiralty and Deception) 
-   - Name in Table 1: Split1F \n
+   - Name in Table 1: Split1F
    - Directory: forVS_split
 
 To Victoria Sill from Haro, Rosario, SJC (also from Admiralty and Deception)
-   Name in Table 1: Split1B
-   Directory: backVS_split
+   - Name in Table 1: Split1B
+   - Directory: backVS_split
 
 From Point Roberts to Haro, Rosario, SJC (also to Gulf Islands)
-   Name in Table 1: Split2F
-   Directory: forPR_split
+   - Name in Table 1: Split2F
+   - Directory: forPR_split
 
 To Point Roberts from Haro, Rosario, SJC (also from Gulf Islands)
-   Name in Table 1: Split2B
-   Directory: backPR_split
+   - Name in Table 1: Split2B
+   - Directory: backPR_split
 
 From Victoria Sill through Haro Strait
-   Name in Table 1: Full1F_haro
-   Directory: forVS_haro
+   - Name in Table 1: Full1F_haro
+   - Directory: forVS_haro
 
 From Point Roberts through Haro Strait
-   Name in Table 1: Full2F_haro
-   Directory: forPR_haro
+   - Name in Table 1: Full2F_haro
+   - Directory: forPR_haro
 
 From Admiralty Inlet through Haro Strait
-   Name in Table 1: Full3F_haro
-   Directory: foradm_haro
+   - Name in Table 1: Full3F_haro
+   - Directory: foradm_haro
 
 From Gulf Islands through Haro Strait
-   Name in Table 1: Full4F_haro
-   Directory: forgulf_haro
+   - Name in Table 1: Full4F_haro
+   - Directory: forgulf_haro
 
 From Victoria Sill through Rosario Strait
-   Name in Table 1: Full1F_ros
-   Directory: forVS_ros
+   - Name in Table 1: Full1F_ros
+   - Directory: forVS_ros
 
 From Point Roberts through Rosario Strait
-   Name in Table 1: Full2F_ros
-   Directory: forPR_ros
+   - Name in Table 1: Full2F_ros
+   - Directory: forPR_ros
 
 From Admiralty Inlet through Rosario Strait
-   Name in Table 1: Full3F_ros
-   Directory: foradm_ros
+   - Name in Table 1: Full3F_ros
+   - Directory: foradm_ros
 
 From Gulf Islands through Rosario Strait
-   Name in Table 1: Full4F_ros
-   Directory: forgulf_ros
+   - Name in Table 1: Full4F_ros
+   - Directory: forgulf_ros
 
 From Victoria Sill through San Juan Channel
+
    Name in Table 1: Full1F_sjc
    Directory: forVS_sjc
 
