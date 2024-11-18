@@ -55,53 +55,52 @@ From Gulf Islands through Rosario Strait
    - Directory: forgulf_ros
 
 From Victoria Sill through San Juan Channel
-
-   Name in Table 1: Full1F_sjc
-   Directory: forVS_sjc
+   - Name in Table 1: Full1F_sjc
+   - Directory: forVS_sjc
 
 From Point Roberts through San Juan Channel
-   Name in Table 1: Full2F_sjc
-   Directory: forPR_sjc
+   - Name in Table 1: Full2F_sjc
+   - Directory: forPR_sjc
 
 From Admiralty Inlet through San Juan Channel
-   Name in Table 1: Full3F_sjc
-   Directory: foradm_sjc
+   - Name in Table 1: Full3F_sjc
+   - Directory: foradm_sjc
 
 From Gulf Islands through San Juan Channel
-   Name in Table 1: Full4F_sjc
-   Directory: forgulf_sjc
+   - Name in Table 1: Full4F_sjc
+   - Directory: forgulf_sjc
 
 To Victoria Sill through Haro Strait
-   Name in Table 1: Full1B_haro
-   Directory: backVS_haro
+   - Name in Table 1: Full1B_haro
+   - Directory: backVS_haro
 
 To Point Roberts through Haro Strait
-   Name in Table 1: Full2B_haro
-   Directory: backPR_haro
+   - Name in Table 1: Full2B_haro
+   - Directory: backPR_haro
 
 To Admiralty Inlet through Haro Strait
-   Name in Table 1: Full3B_haro
-   Directory: backadm_haro
+   - Name in Table 1: Full3B_haro
+   - Directory: backadm_haro
 
 To Gulf Islands through Haro Strait
-   Name in Table 1: Full4B_haro
-   Directory: backgulf_haro
+   - Name in Table 1: Full4B_haro
+   - Directory: backgulf_haro
 
 To Victoria Sill through Rosario Strait
-   Name in Table 1: Full1B_ros
-   Directory: backVS_ros
+   - Name in Table 1: Full1B_ros
+   - Directory: backVS_ros
 
 To Admiralty Inlet through Rosario Strait
-   Name in Table 1: Full3B_ros
-   Directory: backadm_ros
+   - Name in Table 1: Full3B_ros
+   - Directory: backadm_ros
 
 To Victoria Sill through San Juan Channel
-   Name in Table 1: Full1B_sjc
-   Directory: backVS_sjc
+   - Name in Table 1: Full1B_sjc
+   - Directory: backVS_sjc
 
 To Admiralty Inlet through San Juan Channel
-   Name in Table 1: Full3B_sjc
-   Directory: backadm_sjc
+   - Name in Table 1: Full3B_sjc
+   - Directory: backadm_sjc
 
 ### Data Processing ###
 
