@@ -110,7 +110,7 @@ CalculateTimeSeries_ThroughHaro.ipynb/CalculateTimeSeries_ThroughRosario.ipynb/C
 
 CalculateMonthlyAvgs: Combines data from Ariane files, caculates the monthly average for transport, salinity, temperature and saves to csv files.
 
-reflux_SJI_analysis.ipynb:
+reflux_SJI_analysis.ipynb: Calculates transport and salt flux associated with reflux, efflux, tidal sloshing through the SJGI.
 
 Calculate_Wind.ipynb: Calculates the wind at Sand Heads and shifts to match the along strait and across strait direction of SalishSeaCast.
 
