@@ -1,6 +1,6 @@
 # StangAllen_SJGIPaper
 
-Namelists, postprocessing and analysis scripts for "Seasonably variable estuarine exchange through inter-connected channels in the Salish Sea"
+Namelists, postprocessing and analysis scripts for "Seasonably variable estuarine exchange through inter-connected channels in the Salish Sea" 
 
 ### Ariane Runs ###
 
