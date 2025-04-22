@@ -100,9 +100,21 @@ To Victoria Sill through San Juan Channel
    - Name in Table 1: Full1B_sjc
    - Directory: backVS_sjc
 
-To Admiralty Inlet through San Juan Channel
-   - Name in Table 1: Full3B_sjc
-   - Directory: backadm_sjc
+From Victoria Sill, no inner boundaries
+   - Name in Table 1: External1F
+   - Directory: forvs_external
+
+From Point Roberts, no inner boundaries
+   - Name in Table 1: External2F
+   - Directory: forpr_external
+
+From Admiralty Inlet, no inner boundaries
+   - Name in Table 1: External3F
+   - Directory: foradm_external
+
+From Gulf Islands, no inner boundaries
+   - Name in Table 1: External4F
+   - Directory: forgulf_external
 
 ### Data Processing ###
 
@@ -158,4 +170,4 @@ Figure S8: SouthFlow_Comps.ipynb
 
 Figure S9:  TransportThroughStraits_Correlations.ipynb
 
-Figure S10: TransportThroughStraits_Correlations.ipynb
+Figure S10: BarotropicFluxDrivers.ipynb
